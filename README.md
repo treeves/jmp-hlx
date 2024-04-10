@@ -1,10 +1,10 @@
 # Your Project's Title...
-Your project's description...
+This is the test POC site for JMP's Edge Delivery Migration
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
-
+- Preview: https://main--jmp-hlx--treeves.hlx.page/
+- Live: https://main--jmp-hlx--treeves.hlx.live/
+- Live CDN: https://hlx.opsinventor.com/
 ## Installation
 
 ```sh
